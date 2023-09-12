@@ -27,7 +27,7 @@ print('''\033[0;91m
 print('''\0330;33m
 ------------------------[~~~~~~~unknown💀️~~~~~~~~]-------------------                                         
 
-YOUTUBE :https://www.youtube.com/@user-rm4zx2ct2b/featured
+https://t.me/Max_alm_joker
 
 ------------------------[~~~~~~~~unknown☠️~~~~~~~]-----------------------
 ''')
